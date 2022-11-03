@@ -1,0 +1,4 @@
+﻿  AI.cpp
+D:\vscode\Wuziqi\AI.cpp(36,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vscode\Wuziqi\AI.cpp(37,21): warning C4018: “<”: 有符号/无符号不匹配
+  Wuziqi.vcxproj -> D:\vscode\Wuziqi\Debug\Wuziqi.exe
